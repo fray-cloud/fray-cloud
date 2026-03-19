@@ -14,31 +14,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
         with:
-          node-version: 20
+          card: stats
+          options: username=fray-cloud&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true
+          path: assets/stats.svg
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
-      - name: Clone github-readme-stats
-        run: git clone --depth 1 https://github.com/anuraghazra/github-readme-stats.git /tmp/stats
-
-      - name: Install dependencies
-        working-directory: /tmp/stats
-        run: npm ci
-
-      - name: Start server and generate SVGs
-        env:
-          PAT_1: ${{ secrets.GH_STATS_TOKEN }}
-        run: |
-          cd /tmp/stats
-          node express.js &
-          sleep 5
-
-          mkdir -p $GITHUB_WORKSPACE/assets
-
-          curl -s "http://localhost:9000/api?username=fray-cloud&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" -o $GITHUB_WORKSPACE/assets/stats.svg
-          curl -s "http://localhost:9000/api/top-langs?username=fray-cloud&layout=compact&theme=transparent&hide_border=true" -o $GITHUB_WORKSPACE/assets/top-langs.svg
-
-          kill %1 || true
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=fray-cloud&layout=compact&theme=transparent&hide_border=true
+          path: assets/top-langs.svg
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Commit and push if changed
         run: |
