@@ -26,7 +26,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=fray-cloud&layout=compact&theme=transparent&hide_border=true
+          options: username=fray-cloud&layout=compact&theme=transparent&hide_border=true&exclude_repo=study_JAVA,study_web,study_hadoop,study_R,study_python,study_ai,study_react,study_nodejs
           path: assets/top-langs.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 
