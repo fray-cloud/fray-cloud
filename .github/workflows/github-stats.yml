@@ -33,10 +33,10 @@ jobs:
           node express.js &
           sleep 5
 
-          mkdir -p assets
+          mkdir -p $GITHUB_WORKSPACE/assets
 
-          curl -s "http://localhost:9000/api?username=fray-cloud&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" -o assets/stats.svg
-          curl -s "http://localhost:9000/api/top-langs?username=fray-cloud&layout=compact&theme=transparent&hide_border=true" -o assets/top-langs.svg
+          curl -s "http://localhost:9000/api?username=fray-cloud&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" -o $GITHUB_WORKSPACE/assets/stats.svg
+          curl -s "http://localhost:9000/api/top-langs?username=fray-cloud&layout=compact&theme=transparent&hide_border=true" -o $GITHUB_WORKSPACE/assets/top-langs.svg
 
           kill %1 || true
 
