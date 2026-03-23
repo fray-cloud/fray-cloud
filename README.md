@@ -61,5 +61,3 @@ https://hosted.weblate.org/user/fray-cloud/
 _Last updated: 2026-03-19_
 
 <!-- weblate-stats:end -->
-
-### 📊 GitHub Stats
