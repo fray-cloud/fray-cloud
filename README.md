@@ -8,42 +8,29 @@
 
 <p align="center"></p>
 
-###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="22" alt="typescript logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="22" alt="react logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="22" alt="nextjs logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="22" alt="tailwindcss logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=black&style=for-the-badge" height="22" alt="storybook logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="22" alt="nestjs logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="22" alt="python logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" height="22" alt="fastapi logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="22" alt="django logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="22" alt="spring logo"  />
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-</div>
-
-###
-
 
 <div align="center">
   <a href="https://www.linkedin.com/in/fray-cloud/" target="_blank">
@@ -52,9 +39,6 @@
 </div>
 
 ###
-
-
-<br clear="both">
 
 <div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=50&section=footer&reversal=false&fontSize=70&fontColor=4ba3c3&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=twinkling&desc=%F0%90%94%8C%D5%9E%EF%BD%A5%C2%B7%EF%BD%A5%D5%9E%F0%90%A6%AF&descSize=20&descAlign=50&descAlignY=57&textBg=false&color=gradient"  />
