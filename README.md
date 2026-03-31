@@ -1,48 +1,65 @@
-[![Stats](./assets/stats.svg)](https://github.com/fray-cloud)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fray-cloud/fray-cloud/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fray-cloud/fray-cloud/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fray-cloud/fray-cloud/output/pacman-contribution-graph.svg">
+</picture>
 
-[![Top Langs](./assets/top-langs.svg)](https://github.com/fray-cloud)
+###
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fray-cloud&theme=transparent&hide_border=true&short_numbers=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+<p align="center"></p>
 
----
+###
 
-## 🛠 Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+</div>
 
-**Languages**
+###
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+</div>
 
-**Frontend**
+###
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+</div>
 
-**Backend**
+###
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+<div align="center">
+  <a href="https://www.linkedin.com/in/fray-cloud/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
-**DevOps**
+###
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 
-**Tools**
+<br clear="both">
 
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white)
-![Harbor](https://img.shields.io/badge/Harbor-60B932?style=flat&logo=harbor&logoColor=white)
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=50&section=footer&reversal=false&fontSize=70&fontColor=4ba3c3&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=twinkling&desc=%F0%90%94%8C%D5%9E%EF%BD%A5%C2%B7%EF%BD%A5%D5%9E%F0%90%A6%AF&descSize=20&descAlign=50&descAlignY=57&textBg=false&color=gradient"  />
+</div>
 
----
+###
 
 <!-- weblate-stats:start -->
 
